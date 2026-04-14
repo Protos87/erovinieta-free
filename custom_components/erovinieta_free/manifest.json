@@ -1,0 +1,14 @@
+{
+  "domain": "erovinieta_free",
+  "name": "CNAIR eRovinieta Gratuit",
+  "codeowners": [
+    "@Protos87"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Protos87/erovinieta-free",
+  "issue_tracker": "https://github.com/Protos87/erovinieta-free/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}
