@@ -1,5 +1,7 @@
 # CNAIR eRovinieta Gratuit
 
+[![Open your Home Assistant instance and open a repository inside HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Protos87&repository=erovinieta-free&category=integration)
+
 Integrare custom pentru Home Assistant care citește date din contul CNAIR eRovinieta.
 
 ## Funcții
@@ -18,8 +20,13 @@ Integrarea oferă senzori pentru:
 
 - Home Assistant
 - cont valid pe platforma CNAIR eRovinieta
+- HACS instalat, dacă vrei instalare ușoară
 
 ## Instalare prin HACS
+
+### Instalare rapidă
+
+Apasă pe badge-ul de mai sus pentru a deschide direct repository-ul în HACS.
 
 ### Custom repository
 
@@ -27,7 +34,8 @@ Integrarea oferă senzori pentru:
 2. Mergi la **Integrations**
 3. Apasă pe meniul cu 3 puncte
 4. Alege **Custom repositories**
-5. Adaugă repository-ul acestui proiect
+5. Adaugă repository-ul acestui proiect:
+   `https://github.com/Protos87/erovinieta-free`
 6. Alege tipul **Integration**
 7. Instalează integrarea
 8. Repornește Home Assistant
